@@ -4,6 +4,9 @@
   Karisma ist eine Model-Vermittlungsplattform, die es Models ermöglicht, sich zu präsentieren und passende Jobangebote zu finden.
 </p>
 
+<!-- Bild -->
+<img src="/karisma-start.jpeg" alt="Karisma Startseite" class="img-fluid my-4 rounded shadow" />
+
 <p>
   Über das Menü oben kannst du:
 </p>

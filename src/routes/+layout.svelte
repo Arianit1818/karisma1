@@ -2,6 +2,7 @@
   <a class="navbar-brand" href="/">Karisma</a>
   <div class="navbar-nav">
     <a class="nav-link" href="/models">Models</a>
+    <a class="nav-link" href="/models/neu">Model hinzufügen</a>
     <a class="nav-link" href="/jobs">Jobs</a>
   </div>
 </nav>
